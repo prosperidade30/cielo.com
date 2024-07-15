@@ -1,0 +1,15 @@
+{
+  "name": "CIELO DE NATAL",
+  "version": "0.0.0",
+  "authors": [
+    "PUMBA HERENIUS <pumbaherenius@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
